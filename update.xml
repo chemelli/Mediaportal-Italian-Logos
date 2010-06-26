@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ExtensionCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Items>
     <PackageClass>
@@ -49,7 +49,7 @@ Analog
 </ExtensionDescription>
         <VersionDescription />
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogo v.[version].MPEI</OnlineLocation>
+        <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogos/ItalyLogos v.1.0.0.1.mpe1</OnlineLocation>
         <ReleaseDate>2010-06-25T19:14:51</ReleaseDate>
         <Tags>logos</Tags>
         <Location>..\ItalyLogos v.[Version].mpe1</Location>
