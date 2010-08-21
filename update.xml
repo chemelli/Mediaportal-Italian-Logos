@@ -143,7 +143,7 @@ Analog
 </ExtensionDescription>
         <VersionDescription />
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogo v.[version].MPEI</OnlineLocation>
+        <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogo v.1.0.0.2.MPEI</OnlineLocation>
         <ReleaseDate>2010-08-21T19:14:51</ReleaseDate>
         <Tags>logos</Tags>
         <Location>..\ItalyLogos v.[Version].mpe1</Location>

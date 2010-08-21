@@ -5521,7 +5521,7 @@ Analog
 </ExtensionDescription>
     <VersionDescription />
     <DevelopmentStatus>Stable</DevelopmentStatus>
-    <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogo v.[version].MPEI</OnlineLocation>
+    <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogo v.[Version].MPEI</OnlineLocation>
     <ReleaseDate>2010-08-21T19:14:51</ReleaseDate>
     <Tags>logos</Tags>
     <Location>..\ItalyLogos v.[Version].mpe1</Location>
@@ -10932,7 +10932,7 @@ Analog
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>ItalyFlag.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{b422ee85-4456-4b54-868b-069475dd162a}-ItalyFlag.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{37babe71-2414-45e8-b052-16d4475711ca}-ItalyFlag.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
