@@ -6081,13 +6081,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>..\logos\TV\logos\Thumbs.db</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{91b9d2ca-5343-4cab-913f-78730c130388}-Thumbs.db</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\logos\Thumbs.db</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
               <LocalFileName>..\logos\TV\logos\tlc telecampione.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{dc87e11a-1ea2-4dd5-a9fb-847b7be76f6e}-tlc telecampione.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\logos\tlc telecampione.png</DestinationFilename>
@@ -6193,9 +6186,107 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>..\logos\Radio\Thumbs.db</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{1f18c8d5-f09f-4fc0-85a1-fb755e2c9bab}-Thumbs.db</ZipFileName>
-              <DestinationFilename>%Thumbs%\Radio\Thumbs.db</DestinationFilename>
+              <LocalFileName>..\logos\TV\logos\-frisbee-.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{16cb9a2f-9362-4d19-9883-ce06d706f9bf}--frisbee-.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\-frisbee-.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\axn +1.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{81abf8cb-039b-4ca9-b582-6efcc1d21e10}-axn +1.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\axn +1.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\axn hd.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6b5d31c8-6ee3-4926-aa0a-f371119c473e}-axn hd.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\axn hd.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\caccia e pesca +.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4056e2b4-0867-4ae0-9948-1eb17e079a42}-caccia e pesca +.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\caccia e pesca +.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\cinema +1 hd.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9dadfca5-9f25-40b9-912a-e546b020de71}-cinema +1 hd.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\cinema +1 hd.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\cinema italia hd.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5e421fd3-808a-4de0-8773-aa994c5b7436}-cinema italia hd.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\cinema italia hd.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\cinema itv.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ea77ecc4-de44-4a62-b85c-cee831e57aea}-cinema itv.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\cinema itv.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\cinemafamilyhd.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{da536aa5-cb70-44c5-a477-f1ba369806d0}-cinemafamilyhd.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\cinemafamilyhd.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\cinemamaniahd.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{64802b77-c25b-4bd2-9d3d-2f7da1c39f75}-cinemamaniahd.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\cinemamaniahd.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\classics hd.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2e58e7d0-907c-4793-bad5-e59c1f4e9214}-classics hd.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\classics hd.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\deasuper.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a434489a-0bd9-4bab-8a16-f7c37cbd7c2a}-deasuper.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\deasuper.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\dovetv.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0b6e3a53-66b1-405d-aa4e-a76bf8fa30e2}-dovetv.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\dovetv.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\playhouse +.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{af8414ce-8dd1-45a5-9aa8-12dcfd571638}-playhouse +.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\playhouse +.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\premium cinema hd.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a298edd7-c122-4e50-9cdf-5727ee137739}-premium cinema hd.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\premium cinema hd.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\rai sport 2.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9f50a9ff-e905-4efa-abc1-466aaba6440a}-rai sport 2.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\rai sport 2.png</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -6320,7 +6411,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>3</Revision>
+      <Revision>4</Revision>
     </Version>
     <ExtensionDescription>This package will copy all TV and Radio logos for Italian stations broacasted on Analog, 
 DVB-T
@@ -6334,7 +6425,7 @@ DVB-T
     <VersionDescription>Some logos updates
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
-    <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogos/ItalyLogos v.1.0.0.3.mpe1</OnlineLocation>
+    <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogos/ItalyLogos v.[Version].mpe1</OnlineLocation>
     <ReleaseDate>2010-12-06T19:14:51</ReleaseDate>
     <Tags>logos</Tags>
     <Location>..\ItalyLogos v.[Version].mpe1</Location>
@@ -12444,13 +12535,6 @@ DVB-T
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>..\logos\TV\logos\Thumbs.db</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{91b9d2ca-5343-4cab-913f-78730c130388}-Thumbs.db</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\logos\Thumbs.db</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
         <LocalFileName>..\logos\TV\logos\tlc telecampione.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{dc87e11a-1ea2-4dd5-a9fb-847b7be76f6e}-tlc telecampione.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\logos\tlc telecampione.png</DestinationFilename>
@@ -12556,15 +12640,113 @@ DVB-T
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>..\logos\Radio\Thumbs.db</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{1f18c8d5-f09f-4fc0-85a1-fb755e2c9bab}-Thumbs.db</ZipFileName>
-        <DestinationFilename>%Thumbs%\Radio\Thumbs.db</DestinationFilename>
+        <LocalFileName>..\logos\TV\logos\-frisbee-.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{16cb9a2f-9362-4d19-9883-ce06d706f9bf}--frisbee-.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\-frisbee-.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\axn +1.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{81abf8cb-039b-4ca9-b582-6efcc1d21e10}-axn +1.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\axn +1.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\axn hd.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6b5d31c8-6ee3-4926-aa0a-f371119c473e}-axn hd.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\axn hd.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\caccia e pesca +.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4056e2b4-0867-4ae0-9948-1eb17e079a42}-caccia e pesca +.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\caccia e pesca +.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\cinema +1 hd.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9dadfca5-9f25-40b9-912a-e546b020de71}-cinema +1 hd.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\cinema +1 hd.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\cinema italia hd.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5e421fd3-808a-4de0-8773-aa994c5b7436}-cinema italia hd.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\cinema italia hd.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\cinema itv.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ea77ecc4-de44-4a62-b85c-cee831e57aea}-cinema itv.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\cinema itv.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\cinemafamilyhd.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{da536aa5-cb70-44c5-a477-f1ba369806d0}-cinemafamilyhd.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\cinemafamilyhd.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\cinemamaniahd.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{64802b77-c25b-4bd2-9d3d-2f7da1c39f75}-cinemamaniahd.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\cinemamaniahd.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\classics hd.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2e58e7d0-907c-4793-bad5-e59c1f4e9214}-classics hd.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\classics hd.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\deasuper.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a434489a-0bd9-4bab-8a16-f7c37cbd7c2a}-deasuper.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\deasuper.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\dovetv.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0b6e3a53-66b1-405d-aa4e-a76bf8fa30e2}-dovetv.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\dovetv.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\playhouse +.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{af8414ce-8dd1-45a5-9aa8-12dcfd571638}-playhouse +.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\playhouse +.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\premium cinema hd.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a298edd7-c122-4e50-9cdf-5727ee137739}-premium cinema hd.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\premium cinema hd.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\rai sport 2.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9f50a9ff-e905-4efa-abc1-466aaba6440a}-rai sport 2.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\rai sport 2.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>ItalyFlag.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{16b0205b-9516-4a13-a896-ddbde51e458b}-ItalyFlag.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{fd9267ea-0fc7-414b-991e-98ac45b1af9c}-ItalyFlag.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
