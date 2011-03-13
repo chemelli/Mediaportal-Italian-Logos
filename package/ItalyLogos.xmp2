@@ -7958,7 +7958,7 @@ DVB-T
     <VersionDescription>Some logos updates
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
-    <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogos/ItalyLogos v.1.0.0.5.mpe1</OnlineLocation>
+    <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogos/ItalyLogos v.[Version].mpe1</OnlineLocation>
     <ReleaseDate>2010-12-06T19:14:51</ReleaseDate>
     <Tags>logos</Tags>
     <Location>..\ItalyLogos v.[Version].mpe1</Location>
@@ -15812,7 +15812,7 @@ DVB-T
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>ItalyFlag.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{c4a3f0ab-84c0-4eab-8c80-936178594ce1}-ItalyFlag.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{4524f31c-75a8-437f-a976-49c9ba35665f}-ItalyFlag.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
