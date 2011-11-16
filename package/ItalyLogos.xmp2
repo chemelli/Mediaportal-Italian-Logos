@@ -7789,58 +7789,58 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>..\logos\TV\logos\france Ã´.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{3c41f735-365f-4fa5-9357-ea09204b5402}-france __.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\logos\france Ã´.png</DestinationFilename>
+              <LocalFileName>..\logos\TV\logos\france ô.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c5195e3d-d424-46ee-a3d0-04e3c34f75f6}-france _.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\france ô.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>..\logos\TV\logos\orange cinÃ© choc.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{d6517b86-15c7-4abb-8f24-bf32d1c7185f}-orange cin__ choc.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\logos\orange cinÃ© choc.png</DestinationFilename>
+              <LocalFileName>..\logos\TV\logos\orange ciné choc.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{80a9357d-c4b1-4f77-b8a2-dfac9117d0dd}-orange cin_ choc.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\orange ciné choc.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>..\logos\TV\logos\orange cinÃ© gÃ©ants.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{c7593f53-486d-47f3-992b-3d69d83bfbb9}-orange cin__ g__ants.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\logos\orange cinÃ© gÃ©ants.png</DestinationFilename>
+              <LocalFileName>..\logos\TV\logos\orange ciné géants.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{256a408a-f3ad-47b3-aa0f-33c2c5193fca}-orange cin_ g_ants.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\orange ciné géants.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>..\logos\TV\logos\orange cinÃ© happy.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{9de56bca-e3ba-4f98-93ea-44c724de963a}-orange cin__ happy.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\logos\orange cinÃ© happy.png</DestinationFilename>
+              <LocalFileName>..\logos\TV\logos\orange ciné happy.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{98407331-7f2e-4b80-904e-75a2321cf452}-orange cin_ happy.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\orange ciné happy.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>..\logos\TV\logos\orange cinÃ© max.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{e5dedcf9-7d3f-4053-8527-0d703e6dd3a4}-orange cin__ max.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\logos\orange cinÃ© max.png</DestinationFilename>
+              <LocalFileName>..\logos\TV\logos\orange ciné max.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{811a86ad-81fb-4947-a712-c7e1621fd159}-orange cin_ max.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\orange ciné max.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>..\logos\TV\logos\orange cinÃ© novo.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{ca402cb5-349e-49e3-b073-f96a766c7f68}-orange cin__ novo.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\logos\orange cinÃ© novo.png</DestinationFilename>
+              <LocalFileName>..\logos\TV\logos\orange ciné novo.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6694c00b-0e26-43cb-93ff-1798c078c9d4}-orange cin_ novo.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\orange ciné novo.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>..\logos\TV\logos\rai sport piÃ¹.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{f06bc317-e1f5-40a7-85cc-8e22236f981d}-rai sport pi__.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\logos\rai sport piÃ¹.png</DestinationFilename>
+              <LocalFileName>..\logos\TV\logos\rai sport più.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{536b37fa-a596-4636-adb5-f97de2a04bea}-rai sport pi_.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\rai sport più.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>..\logos\TV\logos\tivÃ¹ tivÃ¹.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{9d0555ad-016d-4315-b1b2-189b9c207556}-tiv__ tiv__.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\logos\tivÃ¹ tivÃ¹.png</DestinationFilename>
+              <LocalFileName>..\logos\TV\logos\tivù tivù.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{50c0a9fe-6f09-4996-b90b-c5b9a650593c}-tiv_ tiv_.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\tivù tivù.png</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -7988,7 +7988,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>7</Revision>
+      <Revision>8</Revision>
     </Version>
     <ExtensionDescription>This package will copy all TV and Radio logos for Italian stations broacasted on Analog, 
 DVB-T
@@ -8003,7 +8003,7 @@ DVB-T
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://github.com/chemelli/Mediaportal-Italian-Logos/blob/master/ItalyLogos%20v.[Version].mpe1</OnlineLocation>
-    <ReleaseDate>2010-12-06T19:14:51</ReleaseDate>
+    <ReleaseDate>2011-11-17T19:14:51</ReleaseDate>
     <Tags>logos</Tags>
     <Location>..\ItalyLogos v.[Version].mpe1</Location>
     <Params>
@@ -15820,58 +15820,58 @@ DVB-T
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>..\logos\TV\logos\france Ã´.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{3c41f735-365f-4fa5-9357-ea09204b5402}-france __.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\logos\france Ã´.png</DestinationFilename>
+        <LocalFileName>..\logos\TV\logos\france ô.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c5195e3d-d424-46ee-a3d0-04e3c34f75f6}-france _.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\france ô.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>..\logos\TV\logos\orange cinÃ© choc.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{d6517b86-15c7-4abb-8f24-bf32d1c7185f}-orange cin__ choc.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\logos\orange cinÃ© choc.png</DestinationFilename>
+        <LocalFileName>..\logos\TV\logos\orange ciné choc.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{80a9357d-c4b1-4f77-b8a2-dfac9117d0dd}-orange cin_ choc.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\orange ciné choc.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>..\logos\TV\logos\orange cinÃ© gÃ©ants.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{c7593f53-486d-47f3-992b-3d69d83bfbb9}-orange cin__ g__ants.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\logos\orange cinÃ© gÃ©ants.png</DestinationFilename>
+        <LocalFileName>..\logos\TV\logos\orange ciné géants.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{256a408a-f3ad-47b3-aa0f-33c2c5193fca}-orange cin_ g_ants.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\orange ciné géants.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>..\logos\TV\logos\orange cinÃ© happy.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{9de56bca-e3ba-4f98-93ea-44c724de963a}-orange cin__ happy.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\logos\orange cinÃ© happy.png</DestinationFilename>
+        <LocalFileName>..\logos\TV\logos\orange ciné happy.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{98407331-7f2e-4b80-904e-75a2321cf452}-orange cin_ happy.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\orange ciné happy.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>..\logos\TV\logos\orange cinÃ© max.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{e5dedcf9-7d3f-4053-8527-0d703e6dd3a4}-orange cin__ max.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\logos\orange cinÃ© max.png</DestinationFilename>
+        <LocalFileName>..\logos\TV\logos\orange ciné max.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{811a86ad-81fb-4947-a712-c7e1621fd159}-orange cin_ max.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\orange ciné max.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>..\logos\TV\logos\orange cinÃ© novo.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{ca402cb5-349e-49e3-b073-f96a766c7f68}-orange cin__ novo.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\logos\orange cinÃ© novo.png</DestinationFilename>
+        <LocalFileName>..\logos\TV\logos\orange ciné novo.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6694c00b-0e26-43cb-93ff-1798c078c9d4}-orange cin_ novo.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\orange ciné novo.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>..\logos\TV\logos\rai sport piÃ¹.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{f06bc317-e1f5-40a7-85cc-8e22236f981d}-rai sport pi__.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\logos\rai sport piÃ¹.png</DestinationFilename>
+        <LocalFileName>..\logos\TV\logos\rai sport più.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{536b37fa-a596-4636-adb5-f97de2a04bea}-rai sport pi_.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\rai sport più.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>..\logos\TV\logos\tivÃ¹ tivÃ¹.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{9d0555ad-016d-4315-b1b2-189b9c207556}-tiv__ tiv__.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\logos\tivÃ¹ tivÃ¹.png</DestinationFilename>
+        <LocalFileName>..\logos\TV\logos\tivù tivù.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{50c0a9fe-6f09-4996-b90b-c5b9a650593c}-tiv_ tiv_.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\tivù tivù.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
