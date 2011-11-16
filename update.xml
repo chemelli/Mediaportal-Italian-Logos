@@ -21,6 +21,9 @@
       <Dependencies>
         <Items />
       </Dependencies>
+      <PluginDependencies>
+        <Items />
+      </PluginDependencies>
       <GeneralInfo>
         <Name>Italy logos Tv and Radio</Name>
         <Id>784949ad-7eed-4541-9ec8-edc0cb6a3521</Id>
@@ -88,6 +91,7 @@ DVB-T
       <ProjectSettings>
         <FolderGroups />
       </ProjectSettings>
+      <IsSkin>false</IsSkin>
     </PackageClass>
     <PackageClass>
       <Version>2.0</Version>
@@ -107,15 +111,38 @@ DVB-T
         <Items />
       </Sections>
       <Dependencies>
-        <Items />
+        <Items>
+          <DependencyItem>
+            <Type>MediaPortal</Type>
+            <Id />
+            <MinVersion>
+              <Major>1</Major>
+              <Minor>1</Minor>
+              <Build>6</Build>
+              <Revision>27644</Revision>
+            </MinVersion>
+            <MaxVersion>
+              <Major>1</Major>
+              <Minor>1</Minor>
+              <Build>6</Build>
+              <Revision>27644</Revision>
+            </MaxVersion>
+            <WarnOnly>false</WarnOnly>
+            <Message>requires MediaPortal version 1.1.6.27644 to 1.1.6.27644.</Message>
+            <Name>MediaPortal</Name>
+          </DependencyItem>
+        </Items>
       </Dependencies>
+      <PluginDependencies>
+        <Items />
+      </PluginDependencies>
       <GeneralInfo>
         <Name>Italy logos Tv and Radio</Name>
         <Id>784949ad-7eed-4541-9ec8-edc0cb6a3521</Id>
         <Author>Various</Author>
         <HomePage />
         <ForumPage />
-        <UpdateUrl>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogos/update.xml</UpdateUrl>
+        <UpdateUrl>https://github.com/chemelli/Mediaportal-Italian-Logos/blob/master/update.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>0</Minor>
@@ -129,22 +156,17 @@ DVB-T
 
 
 
-13E Hotbird
+13°E Hotbird
 </ExtensionDescription>
         <VersionDescription>Some logos updates
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mp-plugins.svn.sourceforge.net/svnroot/mp-plugins/trunk/plugins/ItalyLogos/ItalyLogos v.1.0.0.7.mpe1</OnlineLocation>
-        <ReleaseDate>2011-04-04T19:14:51</ReleaseDate>
+        <OnlineLocation>https://github.com/chemelli/Mediaportal-Italian-Logos/blob/master/ItalyLogos%20v.1.0.0.7.mpe1</OnlineLocation>
+        <ReleaseDate>2010-12-06T19:14:51</ReleaseDate>
         <Tags>logos</Tags>
         <Location>..\ItalyLogos v.[Version].mpe1</Location>
         <Params>
           <Items>
-            <SectionParam Name="Icon">
-              <Value>C:\svnroot\mp-plugins\trunk\plugins\ItalyLogos\package\ItalyFlag.png</Value>
-              <ValueType>File</ValueType>
-              <Description>The icon file of the package (jpg,png,bmp)</Description>
-            </SectionParam>
             <SectionParam Name="Online Icon">
               <Value />
               <ValueType>String</ValueType>
@@ -163,7 +185,7 @@ DVB-T
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
             <SectionParam Name="Force to uninstall on update">
-              <Value>yes</Value>
+              <Value>YES</Value>
               <ValueType>Bool</ValueType>
               <Description>Show dialog and force to uninstall previous version when updating an extension. Should only be disabled if you are using an NSIS/MSI installer.</Description>
             </SectionParam>
@@ -176,6 +198,7 @@ DVB-T
       <ProjectSettings>
         <FolderGroups />
       </ProjectSettings>
+      <IsSkin>false</IsSkin>
     </PackageClass>
   </Items>
 </ExtensionCollection>
