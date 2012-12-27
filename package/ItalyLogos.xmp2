@@ -8871,6 +8871,20 @@
               <ZipFileName>Installer{CopyFile}\{59add108-02a0-4d9a-ab18-ccbc9a9e612b}-virgin radio.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Radio\virgin radio.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\ canal+ sport.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bbc30399-5f56-4905-aa2a-07b0f2d87045}- canal+ sport.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\ canal+ sport.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\logos\TV\logos\ canal+.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bbc00538-2c4e-4f57-a2fe-200c06de425d}- canal+.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\logos\ canal+.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -9012,18 +9026,19 @@ Click Next to continue or Cancel to exit Setup.</Value>
     <Author>Nephilim &amp; Chemelli</Author>
     <HomePage>http://www.htpcitalia.it</HomePage>
     <ForumPage>http://forum.htpcitalia.it</ForumPage>
-    <UpdateUrl>http://www.nephilim.it/update/logos/update.xml</UpdateUrl>
+    <UpdateUrl>https://github.com/chemelli/Mediaportal-Italian-Logos/raw/master/update.xml</UpdateUrl>
     <Version>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>10</Revision>
+      <Revision>11</Revision>
     </Version>
     <ExtensionDescription>This package will copy all TV and Radio logos for Italian stations broacasted on Analog, DVB-T and 13°E Hotbird</ExtensionDescription>
     <VersionDescription>Some logos updates
+
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
-    <OnlineLocation>http://www.nephilim.it/update/logos/ItalyLogos%20v.1.0.0.9.mpe1</OnlineLocation>
+    <OnlineLocation />
     <ReleaseDate>2012-12-20T19:14:51</ReleaseDate>
     <Tags>logos</Tags>
     <Location>..\ItalyLogos v.[Version].mpe1</Location>
@@ -17923,11 +17938,25 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <ZipFileName>Installer{CopyFile}\{59add108-02a0-4d9a-ab18-ccbc9a9e612b}-virgin radio.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Radio\virgin radio.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\ canal+ sport.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bbc30399-5f56-4905-aa2a-07b0f2d87045}- canal+ sport.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\ canal+ sport.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\logos\TV\logos\ canal+.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bbc00538-2c4e-4f57-a2fe-200c06de425d}- canal+.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\logos\ canal+.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>ItalyFlag.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{2d6518ff-5ae5-4412-b47b-1d73dd68a147}-ItalyFlag.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{00d83ea1-6249-4d94-8e46-aa561ff370a4}-ItalyFlag.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
